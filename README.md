@@ -1,4 +1,4 @@
-# Hi there, I'm Mr_Hamza! 👋
+# Hi there, I'm Hamza! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mr_Hamza&style=flat-square)
 
@@ -11,12 +11,15 @@ I'm a passionate student with skills in DSA, HTML, C++, C, and CSS. I love solvi
 - 📫 How to reach me: [Email](mailto:your-email@example.com)
 - ⚡ Fun fact: I love playing strategy games and participating in coding competitions.
 
+![Beautiful Coding GIF](https://user-images.githubusercontent.com/12345678/123456789-abcdef.gif)
+
 ## 🛠️ Skills
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Data_Structures_&_Algorithms-red?style=for-the-badge)
 
 ## 🎮 Fun Projects
@@ -26,7 +29,7 @@ I'm a passionate student with skills in DSA, HTML, C++, C, and CSS. I love solvi
 - ❌ **[Tic Tac Toe](https://github.com/yourusername/tic-tac-toe)**: A Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - 💀 **[Hangman](https://github.com/yourusername/hangman)**: A Hangman game built with C++.
 
-![Coding GIF](https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif)
+![Beautiful Project GIF](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
 ## 📊 GitHub Stats
 
@@ -38,8 +41,6 @@ I'm a passionate student with skills in DSA, HTML, C++, C, and CSS. I love solvi
 Check out my [LeetCode profile](https://leetcode.com/u/Mr_Hamza/)! Here's a snapshot of my stats:
 
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/stats/u/Mr_Hamza?theme=dark)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="200">
 
 ## 📚 Latest Blog Posts
 
