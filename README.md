@@ -8,7 +8,7 @@ I'm a passionate student with skills in DSA, HTML, C++, C, and CSS. I love solvi
 
 - 🌱 I’m currently learning advanced data structures and algorithms.
 - 💬 Ask me about C++ and front-end development.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](itz.mr.hamza@gmail.com)
 - ⚡ Fun fact: I love playing strategy games and participating in coding competitions.
 
 ![Beautiful Coding GIF](https://user-images.githubusercontent.com/12345678/123456789-abcdef.gif)
