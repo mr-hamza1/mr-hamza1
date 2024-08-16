@@ -7,6 +7,7 @@
 I'm a passionate student with skills in DSA, HTML, C++, C, and CSS. I love solving problems on LeetCode and building cool projects. Here's a little about me and what I do:
 
 - 🌱 I’m currently learning advanced data structures and algorithms.
+- 🌱 I’m currently learning about backend web development.
 - 💬 Ask me about C++ and front-end development.
 - 📫 How to reach me: [Email](itz.mr.hamza@gmail.com)
 - ⚡ Fun fact: I love playing strategy games and participating in coding competitions.
