@@ -34,7 +34,7 @@ I'm a passionate full-stack developer and CS student with a strong foundation in
 
 ## 💻 Featured Projects
 
-- 🏡 **[Airbnb Clone](https://github.com/yourusername/airbnb-clone)**  
+- 🏡(https://github.com/mr-hamza1/listing)**  
   MERN-based rental booking web app with listing pages, user auth, and booking features.
 
 - 💬 **[Real-Time Chat App](https://github.com/yourusername/chat-app)**  
